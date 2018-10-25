@@ -1,0 +1,35 @@
+@media screen and (max-width: 1920px) {
+  body {
+    background-image: url("../img/Go.jpg")
+  }
+}
+
+@media screen and (max-width: 1660px) {
+  body {
+    background-image: url("../img/to.jpg")
+  }
+}
+
+@media screen and (max-width: 1290px) {
+  body {
+    background-image: url("../img/hell.jpg")
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  body {
+    background-image: url("../img/before.jpg")
+  }
+}
+
+@media screen and (max-width: 930px) {
+  body {
+    background-image: url("../img/you.jpg")
+  }
+}
+
+@media screen and (max-width: 720px) {
+  body {
+    background-image: url("../img/die.png")
+  }
+}
